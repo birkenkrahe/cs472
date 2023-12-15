@@ -1,0 +1,16 @@
+#+title: Introduction to data science - notebook
+#+author: Marcus Birkenkrahe
+#+subtitle: Catholic Polytechnic U - CS 472
+#+startup: overview inlineimages indent hideblocks
+#+property: header-args:R :results output :session *R* :noweb yes
+* README
+
+- See also whiteboard screenshots ([[https://drive.google.com/drive/folders/16Z3Lt_RBMnRMwORqZDfGMUezy-_B9huB?usp=sharing][GDrive]]).
+- Includes further reading, watching and comments
+
+* Part I: Introduction to data science
+* Part II: Introduction to R
+* Part III: Data structures
+* Part IV: Visualization, import and the shell
+
+  
