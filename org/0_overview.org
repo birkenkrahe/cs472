@@ -30,7 +30,7 @@
 
 * Course syllabus
 #+attr_html: :width 400px
-[[../img/1_syllabus.png]]
+[[../img/classroom.png]]
 
 - General information & standard policies
 - Course information (grading, schedule)
@@ -118,7 +118,7 @@ sprint review]]).
 - Complete them on time to get full points
 - Completed DataCamp courses can [[https://www.linkedin.com/in/birkenkrahe/][support your resume]]
 #+end_notes
-** NEXT Introduction to the textbook
+** Introduction to the textbook
 #+attr_html: :width 400px
 [[../img/1_bookofR.png]]
 #+begin_notes
@@ -205,7 +205,7 @@ plot(mtcars$mpg ~ mtcars$wt,
     xlab="Weight [tons]", ylab="Miles per gallon")
 abline(lm(mtcars$mpg ~ mtcars$wt),col="red")
 #+end_notes
-* Next: DataCamp Workspace
+* Next: DataCamp
 #+attr_html: :width 600px
 [[../img/0_workspace.png]]
 
